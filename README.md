@@ -40,5 +40,5 @@ Decoded text: Hello, world!
 It’s pretty basic right now. Maybe I could add more characters (like emojis?) or let you save/load the vocab to a file. But for now, it does what it’s supposed to—and better than before!
 
 Happy coding!
-- Some random dev who likes simple stuff 
-- shiv :)
+Some random dev who likes simple stuff 
+shiv :)
