@@ -41,5 +41,5 @@ It’s pretty basic right now. Maybe I could add more characters (like emojis?) 
 
 Happy coding!
 
-Some random dev who likes simple stuff 
+( Some random dev who likes simple stuff )
 
