@@ -1,5 +1,4 @@
-# Custom_Tokenizer
-Character-based Tokenizer
+# Custom_Tokenizer: Character-based Tokenizer
 
 Hey there! This is my little Python project for a brute force tokenizer. I built it to turn text into token IDs and back again, nothing fancy, just something that works. Let me break it down for you.
 
